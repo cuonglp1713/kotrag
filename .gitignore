@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# MacOS
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Kotlin specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
